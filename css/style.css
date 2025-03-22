@@ -63,14 +63,26 @@ header h1{
 }
 
 /*Styling for Comments*/
-#commentsection h2{
+#comment h2{
     font-family: "Rubik Mono One", monospace;
     text-align: center;
     font-size: 35px;
+    background-color: #eb6b6f;
     padding: 15px;
     border-radius: 10px;
     margin: auto;
 }
+#commentsection{
+    display: flex;
+    padding: 15px;
+}
+.comments p{
+    border-style: double;
+    border-width: 5px;
+    background-color: #f9a875;
+    border-color: #eb6b6f;
+}
+
 
 /*Styling for footer*/
 footer p{
