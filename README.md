@@ -1,2 +1,2 @@
 # IDMX 225 Midterm
-<!-- Sahar Naz 'Midterm' -->
+Sahar Naz Midterm
